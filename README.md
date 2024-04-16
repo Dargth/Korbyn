@@ -1,3 +1,3 @@
 # Korbyn
 My tempo doc for MIE
-(Link)[https://github.com/Dargth/Korbyn/wiki]
+[Link](https://github.com/Dargth/Korbyn/wiki)
